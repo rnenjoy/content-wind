@@ -10,5 +10,6 @@
   "devDependencies": {
     "content-wind": "latest",
     "nuxt": "latest"
-  }
+  },
+  "packageManager": "pnpm@8.6.0"
 }
